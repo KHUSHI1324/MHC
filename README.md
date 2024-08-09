@@ -24,17 +24,6 @@ Usage
 Sign Up / Log In: Create a new account or log in to access the application.
 Chatbot: Use the chatbot interface to ask questions related to mental health.
 Book an Appointment: Navigate to the booking section to schedule a session with a specialist via Calendy.
-Explore: Browse through other features and resources provided by the application.
-Contributing
-Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue on GitHub.
-
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 Firebase for providing authentication and database services.
