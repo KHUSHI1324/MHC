@@ -30,10 +30,15 @@ Authentication: Firebase Authentication
 Appointment Scheduling: Calendy
 
 Deployment: GitHub, Vercel/Netlify (or your chosen deployment platform)
+
 Installation
+
 Prerequisites
+
 Node.js
+
 npm (Node Package Manager)
+
 MongoDB (for local development)
 
 
@@ -47,7 +52,11 @@ Book an Appointment: Navigate to the booking section to schedule a session with 
 
 
 Acknowledgments
+
 Firebase for providing authentication and database services.
+
 Tailwind CSS for making styling easy and responsive.
+
 Calendy for the appointment scheduling feature.
+
 MERN Stack for the core framework of this application.
