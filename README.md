@@ -1,4 +1,6 @@
 Mental Health Care Application
+
+
 Welcome to the Mental Health Care Application! This project is designed to support mental well-being through various features, including a chatbot for quick queries, user authentication, and appointment booking with specialists. The application is built using the MERN stack, Firebase, Tailwind CSS, and integrates with Calendy for booking sessions.
 
 Features
